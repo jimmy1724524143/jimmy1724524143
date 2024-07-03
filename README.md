@@ -1,16 +1,38 @@
-## Hi there 👋
+# Nombre del Proyecto
 
-<!--
-**jimmy1724524143/jimmy1724524143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Breve descripción de tu proyecto aquí.
 
-Here are some ideas to get you started:
+## Tabla de Contenidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Descripción](#descripción)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
+- [Contacto](#contacto)
+
+## Descripción
+
+Soy un aficionado 
+
+## Tecnologías Utilizadas
+
+Junior en
+
+- Angular
+- Spring Boot
+- Oracle
+- MySQL
+- PostgreSQL
+- Java
+- Android
+
+
+
+## Instalación
+
+Solo tenle fe......
+
+
+
